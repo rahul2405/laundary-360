@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahul2405
 - 👀 I’m interested in learning java python 
-- Devloper
 - 🌱 I’m currently learning new language
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me ... srivastavar039@gmail or 7007406303
